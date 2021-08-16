@@ -2,15 +2,12 @@ Policy:
 
 GitHub Account Policy 
 
-|Document Details|  | 
-
-|Document Title| GitHub Account Policy| 
-
-|Date issued:| xx/xx/xxxx| 
-
-|Date last revised:| 8/9/2021| 
-
-|Document owner| Information Security| 
+| Document Details |    | 
+| -------------- | ----------- |
+| Document Title | GitHub Account Policy | 
+| Date issued: | xx/xx/xxxx | 
+| Date last revised: | 8/9/2021 | 
+| Document owner | Information Security | 
 
  
 
