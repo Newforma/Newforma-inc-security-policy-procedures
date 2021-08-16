@@ -6,7 +6,7 @@
 | -------------- | ----------- |
 | Document Title | GitHub Account Policy | 
 | Date issued: | xx/xx/xxxx | 
-| Date last revised: | 8/9/2021 | 
+| Date last revised: | 8/16/2021 | 
 | Document owner | Information Security | 
 
  
