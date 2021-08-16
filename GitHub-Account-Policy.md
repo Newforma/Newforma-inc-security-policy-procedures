@@ -1,6 +1,6 @@
-Policy: 
+# Policy: 
 
-GitHub Account Policy 
+# GitHub Account Policy 
 
 | Document Details |    | 
 | -------------- | ----------- |
@@ -11,19 +11,19 @@ GitHub Account Policy
 
  
 
-Approvals 
+### Approvals 
 
-|Name |Authority |Date|
-
-|Newforma Engineering Leadership |Top Management| 8/01/2021 
-
+|Name | Authority | Date |
+| ----------- | -------- | --------- |
+| Newforma Engineering Leadership | Top Management | 8/01/2021 |
+ 
  
 
  
 
  
 
-Purpose 
+## 1. Purpose 
 
 The purpose of this document is to ensure: 
 
@@ -31,11 +31,11 @@ Only Newforma employees can access Newforma’s GitHub organization.
 
 The accounts accessing Newforma’s GitHub organization are secure. 
 
-2. Scope 
+## 2. Scope 
 
 The scope of this policy applies to all Newforma employees	 and contractors who need access to Newforma’s GitHub organization. 
 
-3. Roles and Responsibilities 
+## 3. Roles and Responsibilities 
 
 The Newforma DevOps team is responsible for maintaining a list of current active Newforma GitHub users. DevOps is also responsible for alerting user when it is 	discovered their account is non-compliant. 
 
@@ -43,7 +43,7 @@ The Human Resources Team or managers are responsible for alerting DevOps when a 
 
 Users are responsible for maintaining the compliance of their account. 
 
-4. Policy 
+## 4. Policy 
 
 All Newforma GitHub Organization users must include the user's real name and Newforma email address In the GitHub profile for the account. GitHub Two-Factor Authentication must be enabled, and all GitHub commits must be signed with a GPG key for the user. 
 
