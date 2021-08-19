@@ -1,6 +1,5 @@
 ```mermaid
-
-graph LR
+graph TB
     subgraph Users
         Outlook(fa:fa-envelope Outlook Addin)
         Android(fa:fa-android Android)
