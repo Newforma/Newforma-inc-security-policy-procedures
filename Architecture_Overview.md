@@ -1,5 +1,6 @@
 ```mermaid
-flowchart LR
+
+graph LR
     subgraph Users
         Outlook(fa:fa-envelope Outlook Addin)
         Android(fa:fa-android Android)
