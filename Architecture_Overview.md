@@ -45,15 +45,27 @@ graph TB
             VPC(VPC)
         end
     end
-    subgraph Corporate Network
+    subgraph Corporate_Network
         ADFS(ADFS)
         AzureProxy(Azure AD Application Proxy Connectors)
+        subgraph Newforma_Connectors
+            NewformaLink(NewformaLink)
+            NewformaApp(NewformaApp)
+        end
+        NIX(InfoExchange)
+        NPCS(NPCS)
+        MySQL(MySQL)
     end
-
+    
+    %% Draw connections
+    NIX-->NPCS
+    Newforma_Connectors-->MySQL
     Users-->Microsoft
-
-    Partners==>eapi
-    Users==>api
+    AzureAD-->ADFS
+    
+    %% Draw dotted connections
+    Partners-.->eapi
+    Users-.->api
 
     classDef green fill:#9d6,stroke:#333,stroke-width:2px
     classDef orange fill:#f96,stroke:#333,stroke-width:4px
