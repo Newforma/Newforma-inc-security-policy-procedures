@@ -1,4 +1,8 @@
 ```mermaid
+%% =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%% Newforma Architecture Overview (advanced) 
+%% To test, use Chrome Extension: https://chrome.google.com/webstore/detail/markdown-diagrams/pmoglnmodacnbbofbgcagndelmgaclel
+%% =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 flowchart LR
 
     subgraph Microsoft
@@ -18,12 +22,10 @@ flowchart LR
     end
 
     subgraph Partners
-    direction LR
         Procore(Procore) --> Ryvit(Ryvit)
     end
 
     subgraph Users
-        direction TB
         Outlook(fa:fa-envelope Outlook Addin)
         Android(fa:fa-android Android)
         iOS(fa:fa-apple iOS)
@@ -106,4 +108,3 @@ flowchart LR
     class Users,Partners blue
     class api,eapi,npcapi green
     class AWS orange
-    ```
