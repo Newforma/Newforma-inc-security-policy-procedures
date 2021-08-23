@@ -1,5 +1,6 @@
 ```mermaid
-graph TB
+graph LR
+    %% Early Version - deprecated, but good to test with older tools 
     subgraph Users
         Outlook(fa:fa-envelope Outlook Addin)
         Android(fa:fa-android Android)
