@@ -103,9 +103,9 @@ flowchart LR
 
     %% CSS modifications
     classDef green fill:#9d6,stroke:#333,stroke-width:2px
-    classDef orange fill:#f96,stroke:#333,stroke-width:4px
-    classDef blue fill:#99d,stroke:#666,stroke-width:4px
-    class Users,Partners blue
+    classDef orange fill:#eb9,stroke:#333,stroke-width:6px
+    classDef blue fill:#aae,stroke:#468,stroke-width:8px
+    class Users,Partners,CorporateNetwork,Microsoft blue
     class api,eapi,npcapi green
     class AWS orange
 ```
