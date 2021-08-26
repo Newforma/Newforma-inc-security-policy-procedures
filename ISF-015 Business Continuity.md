@@ -37,15 +37,15 @@ This policy encompasses the following:
 1. POLICY STATEMENT
 2. POLICY STANDARDS
 
-2.1 Information Security aspects of Business Continuity
+ 2.1 Information Security aspects of Business Continuity
 
-2.2 Standards 
+ 2.2 Standards 
 
-2.3 Testing and Maintenance
+ 2.3 Testing and Maintenance
 
-2.4 Guidance 
+ 2.4 Guidance 
 
-2.5 Variations
+ 2.5 Variations
 3. SCOPE & ENFORCEMENT
 4. DOCUMENT CONTROL
 
