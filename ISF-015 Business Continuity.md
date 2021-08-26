@@ -30,3 +30,18 @@ This policy will help to reduce exposure to the following risks:
 * Disruption of business activity due to poor or non-existent testing 
 
 The security of information and information assets should be included and integrated in to every business continuity program  to maintain the security of the controls established to protect  Newforma’s information and   to reduce the risks of loss during times of adverse operating conditions. 
+
+
+This policy encompasses the following: 
+
+1. POLICY STATEMENT
+2. POLICY STANDARDS
+2.1 Information Security aspects of Business Continuity
+2.2 Standards 
+2.3 Testing and Maintenance
+2.4 Guidance 
+2.5 Variations
+3. SCOPE & ENFORCEMENT
+4. DOCUMENT CONTROL
+
+## 2. POLICY STANDARDS 
