@@ -130,9 +130,9 @@ In order  for Newforma to fully investigate  your concern, you are  encouraged t
 | Policy Owner | Information Security | 
 | Policy Approver(s) | Steering Committee |
 | Document History | Effective: May 2016 |
-|                  |  Reviewed: May 2016 |
-|                  |  Revised / Approved: June 2016 / June 2016 |
-| Next Review Date | June 2017 |
+|                  |  Reviewed: August/ 2021 |
+|                  |  Revised / Approved: September 2021 / September 2021 |
+| Next Review Date | June 2022 |
 
 # Revision History 
 
@@ -141,5 +141,5 @@ In order  for Newforma to fully investigate  your concern, you are  encouraged t
 | Kevin Brown | 0.9 | 05/31/2016 | Added new revision history template to end of document. Added ISF Number  to title. Added TOC. |
 | Kevin Brown | 1.0 | 06/09/2016 | Initial Draft |
 | Johnathon Kinville | 2.0 | 08/26/2021| Ported to GitHub |
-| Johnathon Kinville | 2.01| 08/01/2021 |  Minor Clean up |
+| Johnathon Kinville | 2.01| 09/01/2021 |  Minor Clean up |
 
