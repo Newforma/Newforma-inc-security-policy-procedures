@@ -120,7 +120,53 @@ commensurate with their function and, where appropriate (for example, in securit
 
 ### 2.4 	Information Security Management System Controls 
 
+2.4.1 	When a supplier is contracted to manage Newforma information, information assets or information systems, the supplier must ensure that an information security management system is employed to secure Newforma information. The information security system should comply with the ISO/IEC 27002/27001 standard(s) and evidence must be provided to Newforma of compliance with the standard, either through formal certification or Information security best practice to Newforma’s satisfaction. Before any Newforma information, information assets or information systems can be accessed by the supplier, a completed vendor security questionnaire is required. Once the questionnaire is received a risk assessment must take place prior to any contract approvals. 
 
+2.4.2   Suppliers must agree to permit and facilitate audits of all aspects of their information security management system by Newforma and to address any findings of such audits in order to preserve the security of information to Newforma’s standards and requirements. 
 
+2.4.3 	The transmission of PII information between Newforma and a supplier must be encrypted to a level commensurate with the security classification of the information and to Newforma standards. 
+
+2.4.4   Live Newforma data and information may not be used for test purposes. Data and information to be used for test purposes must be anonymized, scrambled or otherwise rendered in such a way that no live Newforma data or information can be reconstructed from data used for test purposes. 
+
+2.4.5 	Newforma information may not be copied by any supplier other than as far as is necessary for providing an agreed service to Newforma. 
+
+2.4.6 	Suppliers must have a security incident reporting process in place to a standard and design acceptable to Newforma to ensure that any incidents involving Newforma information are immediately reported to Newforma. Suppliers must agree to undertake any remedial action required by Newforma and ensure that this is implemented in an auditable way. 
+
+ 2.4.7 	A supplier holding Newforma data on Newforma's behalf must have in place processes to ensure that critical Newforma information held by them can be promptly and efficiently recovered following an emergency
  
+ ## Scope 
+ 
+3.1   Scope: This Policy applies to all Workforce Members. Failure to comply with this or any other Company policy or standard is grounds for disciplinary action up to and including termination of employment, contract or association with Newforma.
+ 
+3.2   Reporting Violations: Immediately report any situation or concern in which you suspect a potential  or actual violation of Company policy or law through any of the following channels, as appropriate: 
+* Discuss the issue  with  your  supervisor, Human  Resources, Security Manager, an attorney  in the  Legal Department or member of senior management, as appropriate. 
+* Submit an Incident via security@newforma.com.(Note from Johnathon: I'm not sure if this is an active email. Testing now will update before PR)
+
+In order for Newforma to fully investigate your concern, you are encouraged to provide the following details: 
+* Your name, title, and location.  If you are not comfortable providing this information, you may make an anonymous report via interoffice mail, suggestion boxes, or calling the appropriate voice mailbox and leaving a voice mail. 
+* A description of your concern, including but not limited to: name(s) and/or titles for the individual(s) or department(s) involved; the conduct you believe to be illegal, unethical or in violation of policy; dates of any relevant incidents; the office location where your concern occurred or is occurring. 
+
+3.3  Non-Retaliation. Newforma strictly  prohibits intimidation  and/or retaliation against any Workforce Member who has made a good faith report of a suspected legal or ethical violation, or cooperated in the investigation of such suspected violation. 
+
+3.4  Investigations. All reports of a violation of this or any other Company policy will be taken seriously and promptly addressed in accordance with the standards and processes outlined in Newforma’s Investigations Policy, and other related policies
+
+4. 	DOCUMENT CONTROL 
+
+| Doctument Control | |
+|-|-|
+| Policy Owner | Information Security | 
+| Policy Approver(s) | Steering Committee |
+| Document History | Effective: May 2016 |
+|                  |  Reviewed: May 2016 |
+|                  |  Revised / Approved: September 2021 / xx |
+| Next Review Date | June 2022 |
+
+# Revision History 
+
+| Name | # | Date | Reason for change |
+| - | - | - | - |
+| Kevin Brown | 0.9 | 05/31/2016 | Added new revision history template to end of document. Added ISF Number  to title. Added TOC. |
+| Kevin Brown | 1.0 | 06/09/2016 | Initial Draft |
+| Johnathon Kinville | 2.0 | 09/21/2021| Ported to GitHub and added GDPR controls|
+
  
