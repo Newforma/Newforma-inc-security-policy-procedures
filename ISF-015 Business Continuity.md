@@ -6,7 +6,7 @@
 | -------------- | ----------- |
 | Document Title | ISF-015 Business Continuity | 
 | Date issued: | May 2016  | 
-| Date last revised: | 9/03/2021 | 
+| Date last revised: | 9/27/2021 | 
 | Document owner | Information Security | 
 
  
