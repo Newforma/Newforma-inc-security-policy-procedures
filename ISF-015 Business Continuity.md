@@ -112,7 +112,7 @@ This standard must be applied in all Company business units. However,  if local 
 
 3.2     Reporting Violations:  Immediately  report  any  situation  or  concern in  which  you  suspect a  potential  or actual violation of Company policy or law through  any of the following channels, as appropriate: 
  * Discuss  the  issue  with  your  supervisor,  Human  Resources, Security  Manager, an  attorney  in  the  Legal Department or member of senior management, as appropriate. 
- * Submit an  Incident via security@newforma.com.
+ * Submit an  Incident via  devops-security@newforma.com.
 In order  for Newforma to fully investigate  your concern, you are  encouraged to provide the  following  details: 
  * Your name, title  and  location.  If  you  are  not  comfortable  providing  this  information,  you  may  make  an anonymous report via interoffice mail, suggestion boxes, or calling the appropriate voice mailbox and leaving a voice mail. 
  * A description  of your  concern, including  but  not  limited  to:  name(s) and/or  titles  for the  individual(s)  or department(s) involved;  the  conduct  you believe  to be  illegal,  unethical  or in  violation  of policy;  dates of any relevant incidents; the office location where  your concern occurred or is occurring. 
@@ -142,4 +142,5 @@ In order  for Newforma to fully investigate  your concern, you are  encouraged t
 | Kevin Brown | 1.0 | 06/09/2016 | Initial Draft |
 | Johnathon Kinville | 2.0 | 08/26/2021| Ported to GitHub |
 | Johnathon Kinville | 2.01| 08/01/2021 |  Minor Clean up |
+| Johnathon Kinville | 2.011| 09/27/2021 |  Removed outdated email and added correct email |
 
