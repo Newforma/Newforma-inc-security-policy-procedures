@@ -93,7 +93,7 @@ policy and regulatory obligations are met.
 representative, in conjunction with senior management, and prior to the commencement of any such processing. Arrangements for data processing will form 
 part of a contract between Newforma and data processors. 
 
-2.3.5  Any prorcessing of perosanal data in the EU that would lead to the data leaving the EU may not take place without express premission of Newforma's Sernior
+2.3.5  Any processing of personal data in the EU that would lead to the data leaving the EU may not take place without express permission of Newforma's Senior 
 Legal / Privacy representative, in conjunction with senior management, and prior to the commencement of any such processing. Arrangements for data processing will form 
 part of a contract between Newforma and data processors. 
 
