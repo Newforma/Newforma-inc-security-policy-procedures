@@ -158,7 +158,7 @@ In order for Newforma to fully investigate your concern, you are encouraged to p
 | Policy Approver(s) | Steering Committee |
 | Document History | Effective: May 2016 |
 |                  |  Reviewed: May 2016 |
-|                  |  Revised / Approved: September 2021 / xx |
+|                  |  Revised / Approved: September 2021 / September 2021 |
 | Next Review Date | June 2022 |
 
 # Revision History 
