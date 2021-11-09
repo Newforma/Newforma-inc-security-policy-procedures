@@ -14,7 +14,7 @@
 |Name | Authority | Date |
 | ----------- | -------- | --------- |
 | Compliance Committee  | Top Management | 8/01/2016 |
-| Compliance Committee | Security Team | 9/xx/2021 |
+| Compliance Committee | Security Team | 9/30/2021 |
 
 ## 1. POLICY STATEMENT
 
