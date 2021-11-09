@@ -34,16 +34,27 @@ This policy encompasses the following:
 
 1. POLICY STATEMENT
 2. POLICY STANDARDS 
+  
   2.1 Physical and Security Perimeters
+  
   2.2 Physical Entry Controls
+  
   2.3 Securing Offices, Rooms and Facilities
+  
   2.4 Working in Secure Areas
+  
   2.5 Delivery and Loading Areas
+  
   2.6 Equipment Location and Protection
+  
   2.7 Power Supplies
+  
   2.8 Equipment Maintenance
+  
   2.9 Security of Equipment Off-Premises
+  
   2.10 Secure Disposal or Re-Use of Equipment
+  
   2.11 	Closed Circuit Television (CCTV)
  3. SCOPE & ENFORCEMENT
  4. DOCUMENT CONTROL
