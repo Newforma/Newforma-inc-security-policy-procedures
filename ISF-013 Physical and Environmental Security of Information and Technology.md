@@ -63,7 +63,7 @@ This policy encompasses the following:
  
  ## 2. POLICY STANDARDS 
  
- 2.1 Physical and Security Perimeters
+ ### 2.1 Physical and Security Perimeters
  
  This section outlines the Company requirements for the physical protection of the Company perimeter in order to prevent unauthorized access.
 
