@@ -367,3 +367,96 @@ Table 1: Media and Data Destruction Methods
 | Magnetic Tape | Non-volatile magnetic | Degaussing, Incineration |
 | Flash Disk | Non-volatile magnetic | Pattern wiping, Physical |
 | Paper Based | Locked file cabinets and locked desk drawers | Locked file cabinets and locked desk drawers |
+
+Removal of Data
+
+Clearing
+
+All media should be treated the same regardless of data classification.
+
+Typical clearing programs use sequential writes of patterned data, ensuring that data is not easily recovered using standard techniques and programs. The pattern matching should involve at least three writes of data. The following is a typical example:
+* 1st write 01101100
+* 2nd write 10010011
+* 3rd write 00101110
+
+This method attempts to mask any previous data with two sets of data that are a mirror of each other, thus ‘blanking’ previous data on the disk. A random set of data is utilized to fill all available space with meaningless information.
+
+To ensure that historical data is thoroughly removed it is advisable to make as many passes as is practicable. The likelihood of total data eradication is proportional to the amount of passes
+
+Purging
+
+After removal of media from its current security context there must be sufficient care taken to ensure that data is irretrievable, even if specialized methods are used (e.g. platter scanning or the use of electron microscopes). Purging involves the use of more sophisticated tools and therefore requires specialist personnel working within a controlled environment. Advise contractors that purging of the media is required.
+
+## 2.11 Closed Circuit Television (CCTV)
+
+The purpose of this section is to regulate the use of closed circuit television (CCTV) cameras to visually monitor and record public areas at Newforma for the purpose of safety and security. This section applies to all members of the Newforma Workforce in the use of CCTV monitoring and recording.
+
+### Standards
+
+2.11.1 Newforma is committed to enhancing the safety and security of its facilities by integrating the best practices of workplace safety and security with state of the art technology. A critical component of a comprehensive security program is the use of CCTV. CCTV monitoring is used in critical public areas and within datacenters to deter crime and to assist in protecting the Company’s workforce, authorized visitors and property.
+
+2.11.2 Information obtained via CCTV monitoring will be used for safety, security and law enforcement purposes. Any use of CCTV for any purpose other than the safety, security and law enforcement purposes contemplated by this policy is strictly prohibited.
+
+2.11.3 CCTV monitoring of public areas for security purposes will be conducted in a professional, ethical and legal manner, and in a manner consistent with existing Company policies, including the Non- Discrimination Policy, the Sexual Harassment Policy, the Non-Retaliation Policy, and other relevant policies. No person will be targeted or monitored because of race, religion, gender, sex, disability, sexual orientation, or national origin.
+
+2.11.4 CCTV monitoring of public areas for security purposes at Newforma is limited to uses that do not violate the reasonable expectation of privacy as defined by the law.
+
+2.11.5 Workforce Members involved in CCTV monitoring will be appropriately trained and supervised in the responsible use of this technology consistent with this policy.
+
+2.11.5 Workforce Members involved in CCTV monitoring will be appropriately trained and supervised in the responsible use of this technology consistent with this policy.
+
+Responsibilities
+
+2.11.9 All operators and supervisors involved in CCTV monitoring of public areas will perform their duties consistent with this policy.
+
+2.11.10 Mobile or portable CCTV equipment may also be used to ensure Company safety and security with approval from senior management and / or Human Resources.
+
+2.11.11 Security shall maintain a current and complete record of all CCTV locations, a copy of which shall be provided to Legal.
+
+2.11.12 The Company will post video recording signage where appropriate.
+
+2.11.13 The Company will limit camera positions and views in a manner that will not violate the standard of "a reasonable expectation of privacy."
+
+2.11.14 The CCTV monitoring area will be configured so as to prevent unauthorized access to, tampering with or duplication of CCTV recordings, data or related information.
+
+2.11.15 Recorded CCTV video will be stored in a secure location, and accessible by authorized personnel only. Recordings will be retained for a period of 60 days, after which time they will be over written, unless retained as part of an investigation or court proceedings (Civil or Criminal), or for other bona fide use as approved by the Legal team
+
+2.11.16 Information obtained by CCTV monitoring will only be released when authorized by Legal and Security. Legal and Security will review and respond to subpoenas from outside law enforcement and requests for CCTV recordings made in connection with internal Company investigations. Any final decision regarding the appropriateness of releasing the records will weigh the concerns of the investigation requesting the release, the privacy interests of the individuals in the video recording, and the safety and security of the Company and its Workforce Members. Legal shall maintain a record of all requests for, and releases of CCTV recordings.
+
+2.11.17 Recorded media will not be released to groups or individuals outside the Company except to assist a law enforcement agency in an investigation, when required by law or when expressly approved by Legal for purposes consistent with Company policy.
+
+## SCOPE & ENFORCEMENT
+
+3.1 Scope: This Policy applies to all Workforce Members. Failure to comply with this or any other Company policy or standard is grounds for disciplinary action up to and including termination of employment, contract or association with Newforma.
+
+3.2 Reporting Violations: Immediately report any situation or concern in which you suspect a potential or actual violation of Company policy or law through any of the following channels, as appropriate:
+
+* Discuss the issue with your supervisor, Human Resources , Information Security, an attorney in the Legal Department or member of senior management, as appropriate.
+* Submit an Incident via devops-security@newforma.com.
+
+In order for Newforma to fully investigate your concern, you are encouraged to provide the following details:
+
+* Your name, title and location. If you are not comfortable providing this information, you may make an anonymous report via interoffice mail, suggestion boxes, or calling the appropriate voice mailbox and leaving a voice mail.
+* A description of your concern, including but not limited to: name(s) and/or titles for the individual(s) or department(s) involved; the conduct you believe to be illegal, unethical or in violation of policy; dates of any relevant incidents; the office location where your concern occurred or is occurring.
+
+A description of your concern, including but not limited to: name(s) and/or titles for the individual(s) or department(s) involved; the conduct you believe to be illegal, unethical or in violation of policy; dates of any relevant incidents; the office location where your concern occurred or is occurring.
+
+3.4 Investigations. All reports of a violation of this or any other Company policy will be taken seriously and promptly addressed in accordance with the standards and processes outlined in Newforma’s Investigations Policy, and other related policies
+
+4. 	DOCUMENT CONTROL 
+
+| Doctument Control | |
+|-|-|
+| Policy Owner | Information Security | 
+| Policy Approver(s) | Steering Committee |
+| Document History | Effective: June 2016 |
+|                  |  Reviewed: November/ 2021 |
+|                  |  Revised / Approved: November 2021 / XX XXXX |
+| Next Review Date | June 2022 |
+
+# Revision History 
+
+| Name | # | Date | Reason for change |
+| - | - | - | - |
+| Kevin Brown | 1.0 | 06/07/2016 | Added new revision history template to end of document. Added ISF Number to title. Added TOC. |
+| Johnathon KInville | 2.0 | 11/22/2021 | Ported to Github and updated for soc-2 |
