@@ -360,6 +360,7 @@ Table 1: Media and Data Destruction Methods
 
 
 | Media Type | Data Storage Mechanism | Suggested Removal Methods |
+| - | - | - |
 | Hard Disk Drive | Non-volatile magnetic | Pattern wiping, Shredding, Degaussing, Drilling |
 | CDROM/DVD- | Write once optical | Abrasion, Incineration, Shredding |
 | CD-RW/DVD | Write many optica | Abrasion, Incineration, Shredding |
