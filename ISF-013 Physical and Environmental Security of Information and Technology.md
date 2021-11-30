@@ -14,7 +14,7 @@
 |Name | Authority | Date |
 | ----------- | -------- | --------- |
 | Compliance Committee  | Top Management |  |
-| Compliance Committee | Security Team | XX/XX/2021 |
+| Compliance Committee | Security Team | 11/23/2021 |
 
 ## 1. POLICY STATEMENT
 
@@ -451,7 +451,7 @@ A description of your concern, including but not limited to: name(s) and/or titl
 | Policy Approver(s) | Steering Committee |
 | Document History | Effective: June 2016 |
 |                  |  Reviewed: November/ 2021 |
-|                  |  Revised / Approved: November 2021 / XX XXXX |
+|                  |  Revised / Approved: November 2021 / November 2021 |
 | Next Review Date | June 2022 |
 
 # Revision History 
@@ -459,4 +459,4 @@ A description of your concern, including but not limited to: name(s) and/or titl
 | Name | # | Date | Reason for change |
 | - | - | - | - |
 | Kevin Brown | 1.0 | 06/07/2016 | Added new revision history template to end of document. Added ISF Number to title. Added TOC. |
-| Johnathon KInville | 2.0 | 11/22/2021 | Ported to Github and updated for soc-2 |
+| Johnathon Kinville | 2.0 | 11/22/2021 | Ported to Github and updated for soc-2 |
