@@ -141,7 +141,6 @@ In order  for Newforma to fully investigate  your concern, you are  encouraged t
 | Kevin Brown | 0.9 | 05/31/2016 | Added new revision history template to end of document. Added ISF Number  to title. Added TOC. |
 | Kevin Brown | 1.0 | 06/09/2016 | Initial Draft |
 | Johnathon Kinville | 2.0 | 08/26/2021| Ported to GitHub |
-
 | Johnathon Kinville | 2.01| 08/01/2021 |  Minor Clean up |
 | Johnathon Kinville | 2.01| 09/01/2021 |  Minor Clean up |
 | Johnathon Kinville | 2.011| 09/27/2021 |  Removed outdated email and added correct email |
