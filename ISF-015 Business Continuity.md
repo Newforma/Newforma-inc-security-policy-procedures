@@ -47,7 +47,9 @@ This policy encompasses the following:
  2.4 Guidance 
 
  2.5 Variations
+
 3. SCOPE & ENFORCEMENT
+
 4. DOCUMENT CONTROL
 
 ## 2. POLICY STANDARDS 
