@@ -140,7 +140,7 @@ commensurate with their function and, where appropriate (for example, in securit
  
 3.2   Reporting Violations: Immediately report any situation or concern in which you suspect a potential  or actual violation of Company policy or law through any of the following channels, as appropriate: 
 * Discuss the issue  with  your  supervisor, Human  Resources, Security Manager, an attorney  in the  Legal Department or member of senior management, as appropriate. 
-* Submit an Incident via security@newforma.com.(Note from Johnathon: I'm not sure if this is an active email. Testing now will update before PR)
+* Submit an Incident via devops-security@newforma.com.
 
 In order for Newforma to fully investigate your concern, you are encouraged to provide the following details: 
 * Your name, title, and location.  If you are not comfortable providing this information, you may make an anonymous report via interoffice mail, suggestion boxes, or calling the appropriate voice mailbox and leaving a voice mail. 
