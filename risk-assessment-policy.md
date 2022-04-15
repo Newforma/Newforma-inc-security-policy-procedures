@@ -120,7 +120,7 @@ Johnathon Kinville	Director Information Security	4/13/2022
 		
 Revision History
 Version	Description	Revision Date	Review Date	Reviewer/Approver Name
-1.0	Initial Draft	4/13/2022	4/14/2022	Johnathon Kinville/
+1.0	Initial Draft	4/13/2022	4/14/2022	Johnathon Kinville/Sebastian Brathelmess
 				
 				
 				
